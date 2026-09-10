@@ -48,4 +48,4 @@ This project helped me improve my understanding of C programming, file handling,
 
 ## 👩‍💻 Author
 
-**Tharani**
+**Lemeka Vanmathi**
